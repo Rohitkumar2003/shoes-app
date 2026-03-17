@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/shoestore-ecommerce.git
+   git clone https://github.com/Rohitkumar2003/shoes-app
 2. Navigate to repository
    ```bash
    cd Shoes-Website
@@ -31,8 +31,3 @@ To run this project locally, follow these steps:
    npm run start
 8. Access the application in your web browser at http://localhost:3000.
 
-
-## Outputs
-![Website Homepage](Output/Op%20(1).png)
-![Display of featured products on website](Output/Op%20(2).png)
-![Single Product Description](Output/Op%20(3).png)
